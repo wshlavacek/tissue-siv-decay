@@ -1,7 +1,9 @@
 # Tissue SIV Decay
 
 This repository contains the manuscript companion notebook for the joint PLN/MLN
-FDC-SIV decay analysis.
+FDC-SIV decay analysis in Chan CN, Busman-Sahay K, Nekorchuk M, et al.,
+"Anti-CD21/CR2 antibody treatment disrupts SIVmac239 deposition on follicular
+dendritic cells during antiretroviral therapy."
 
 ## Reproduce the analysis
 
